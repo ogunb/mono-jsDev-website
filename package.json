@@ -9,7 +9,7 @@
 		"now-build": "npm run build"
 	},
 	"dependencies": {
-		"marked": "^0.5.2",
+		"marked": "^0.7.0",
 		"vue": "^2.5.17",
 		"vue-router": "^3.0.1"
 	},
